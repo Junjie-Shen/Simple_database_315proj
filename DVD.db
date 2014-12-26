@@ -1,0 +1,4 @@
+DVD
+KEYS DVDid 
+ATTRIBUTES title VARCHAR kind VARCHAR year INTEGER DVDid VARCHAR inventoryNumber INTEGER 
+DATA "Pacific Rim" "SciFi" 2006 "S000" 100 ROW "Serenity" "SciFi" 2006 "S001" 107 ROW "Godzilla" "SciFi" 2014 "S002" 109 ROW "Mockingbird" "Drama" 1962 "D000" 101 ROW "Schindler" "Drama" 1993 "D002" 104 ROW "Northwest" "Adventure" 1959 "A000" 200 ROW "Idiana Jones" "Adventure" 1984 "A001" 103 ROW "X-Men" "Adventure" 2014 "A002" 108 ROW END
